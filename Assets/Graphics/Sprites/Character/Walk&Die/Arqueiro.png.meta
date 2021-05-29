@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: fc566874c22576f4eb41fa1be7d4aa9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Arqueiro_0
+  - first:
+      213: 21300002
+    second: Arqueiro_1
+  - first:
+      213: 21300004
+    second: Arqueiro_2
+  - first:
+      213: 21300006
+    second: Arqueiro_3
+  - first:
+      213: 21300008
+    second: Arqueiro_4
+  - first:
+      213: 21300010
+    second: Arqueiro_5
+  - first:
+      213: 21300012
+    second: Arqueiro_6
+  - first:
+      213: 21300014
+    second: Arqueiro_7
+  - first:
+      213: 21300016
+    second: Arqueiro_8
+  - first:
+      213: 21300018
+    second: Arqueiro_9
+  - first:
+      213: 21300020
+    second: Arqueiro_10
+  - first:
+      213: 21300022
+    second: Arqueiro_11
+  - first:
+      213: 21300024
+    second: Arqueiro_12
+  - first:
+      213: 21300026
+    second: Arqueiro_13
+  - first:
+      213: 21300028
+    second: Arqueiro_14
+  - first:
+      213: 21300030
+    second: Arqueiro_15
+  - first:
+      213: 21300032
+    second: Arqueiro_16
+  - first:
+      213: 21300034
+    second: Arqueiro_17
+  - first:
+      213: 21300036
+    second: Arqueiro_18
+  - first:
+      213: 21300038
+    second: Arqueiro_19
+  - first:
+      213: 21300040
+    second: Arqueiro_20
+  - first:
+      213: 21300042
+    second: Arqueiro_21
+  - first:
+      213: 21300044
+    second: Arqueiro_22
+  - first:
+      213: 21300046
+    second: Arqueiro_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arqueiro_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 134
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17.5}
+        - {x: -11, y: -4.5}
+        - {x: -5, y: -17.5}
+        - {x: 5, y: -17.5}
+        - {x: 10, y: -15.5}
+        - {x: 11, y: -11.5}
+        - {x: 11, y: 17.5}
+      physicsShape:
+      - - {x: -9.461178, y: 16.474106}
+        - {x: -11, y: 5.3809204}
+        - {x: -6.3835316, y: -2.619217}
+        - {x: -5, y: -17.5}
+        - {x: 1.4094143, y: -15.448242}
+        - {x: 5.212551, y: -13.106277}
+        - {x: 5.01569, y: -1.5831451}
+        - {x: 10.147835, y: 8.421417}
+        - {x: 5.528631, y: 16.474121}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 134
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17.5}
+        - {x: -11, y: -9.5}
+        - {x: -6, y: -17.5}
+        - {x: 6, y: -17.5}
+        - {x: 11, y: -4.5}
+        - {x: 11, y: 17.5}
+      physicsShape:
+      - - {x: -8.264317, y: 17.158035}
+        - {x: -11, y: 5.844513}
+        - {x: -6.212551, y: -1.9768677}
+        - {x: -4.9741173, y: -14.251373}
+        - {x: 4.2901993, y: -17.5}
+        - {x: 5.6997375, y: -1.588974}
+        - {x: 10.487061, y: 6.271759}
+        - {x: 8.09333, y: 16.132156}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 134
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -11, y: -7}
+        - {x: -7, y: -17}
+        - {x: 8, y: -17}
+        - {x: 11, y: -16}
+        - {x: 11, y: 17}
+      physicsShape:
+      - - {x: -7.9223557, y: 16.48706}
+        - {x: -10.579636, y: 6.67984}
+        - {x: -5.1866684, y: -2.0415802}
+        - {x: -4.6062775, y: -16.487045}
+        - {x: 3.554512, y: -16.31607}
+        - {x: 5.528633, y: -1.8086395}
+        - {x: 10.376022, y: 4.617096}
+        - {x: 6.554512, y: 15.632156}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 134
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17}
+        - {x: -11, y: 16}
+        - {x: -11, y: -8}
+        - {x: -9, y: -14}
+        - {x: -6, y: -17}
+        - {x: 7, y: -17}
+        - {x: 11, y: -7}
+        - {x: 11, y: 17}
+      physicsShape:
+      - - {x: -8.28125, y: 15.090286}
+        - {x: -11, y: 4.923645}
+        - {x: -5.8437653, y: -1.8889008}
+        - {x: -5.753479, y: -12.663193}
+        - {x: -3.5173645, y: -17}
+        - {x: 4.5173645, y: -17}
+        - {x: 5.992996, y: -1.7304688}
+        - {x: 10.2361145, y: 5.604126}
+        - {x: 7.753479, y: 15.472229}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 134
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 17.5}
+        - {x: -11, y: 16.5}
+        - {x: -11, y: -11.5}
+        - {x: -10, y: -15.5}
+        - {x: -6, y: -17.5}
+        - {x: 7, y: -17.5}
+        - {x: 11, y: -6.5}
+        - {x: 11, y: 17.5}
+      physicsShape:
+      - - {x: -4.8437653, y: 15.972229}
+        - {x: -9.663193, y: 13.444443}
+        - {x: -10.427078, y: 4.159683}
+        - {x: -6.1805725, y: -1.368103}
+        - {x: -5.0451355, y: -13.871536}
+        - {x: 2.416687, y: -17.5}
+        - {x: 5.8437653, y: -1.916687}
+        - {x: 11, y: 6.686676}
+        - {x: 7.5625, y: 16.163193}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 134
+        width: 22
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17.5}
+        - {x: -11, y: -9.5}
+        - {x: -8, y: -17.5}
+        - {x: 7, y: -17.5}
+        - {x: 11, y: -3.5}
+        - {x: 11, y: 17.5}
+      physicsShape:
+      - - {x: -8.899307, y: 15.2083435}
+        - {x: -11, y: 6.0155334}
+        - {x: -6.0347443, y: -0.9062805}
+        - {x: -3.4166718, y: -17.118057}
+        - {x: 4.8993225, y: -14.8263855}
+        - {x: 4.524719, y: -2.1610565}
+        - {x: 11, y: 7.194412}
+        - {x: 7.944458, y: 17.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 90
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19}
+        - {x: -7, y: 19}
+        - {x: -11, y: 15}
+        - {x: -11, y: -8}
+        - {x: -8, y: -19}
+        - {x: 9, y: -19}
+        - {x: 11, y: -5}
+        - {x: 11, y: 15}
+      physicsShape:
+      - - {x: 5.293598, y: 18.146805}
+        - {x: -5.0802965, y: 18.573395}
+        - {x: -10.786699, y: 11.373894}
+        - {x: -9.379308, y: 0.72763824}
+        - {x: -4.0580444, y: -3.4277267}
+        - {x: -4.814289, y: -12.905907}
+        - {x: -6.293598, y: -19}
+        - {x: 0.32180595, y: -16.653694}
+        - {x: 6.4403954, y: -19}
+        - {x: 7.3738956, y: 0.5458069}
+        - {x: 11, y: 9.2408905}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 90
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -11, y: 17}
+        - {x: -11, y: -9}
+        - {x: -8, y: -19}
+        - {x: 8, y: -19}
+        - {x: 11, y: -9}
+        - {x: 11, y: 15}
+        - {x: 9, y: 19}
+      physicsShape:
+      - - {x: -5.520691, y: 18.360092}
+        - {x: -11, y: 9.5344925}
+        - {x: -5.4541893, y: -4.9472885}
+        - {x: -5.866997, y: -19}
+        - {x: 5.440399, y: -19}
+        - {x: 6.520691, y: -1.1078796}
+        - {x: 10.573402, y: 8.60099}
+        - {x: 6.013794, y: 17.933495}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18}
+        - {x: -11, y: 13}
+        - {x: -11, y: -6}
+        - {x: -5, y: -18}
+        - {x: 6, y: -18}
+        - {x: 11, y: -7}
+        - {x: 11, y: 15}
+        - {x: 9, y: 18}
+      physicsShape:
+      - - {x: -4.440399, y: 17.786705}
+        - {x: -11, y: 8.9472885}
+        - {x: -9.066414, y: 0.7859726}
+        - {x: -4.814293, y: -5.146797}
+        - {x: -3.7201996, y: -13.947296}
+        - {x: 0.4541855, y: -18}
+        - {x: 7.199234, y: -10.677162}
+        - {x: 7.1605988, y: 0.67881775}
+        - {x: 11, y: 10.520691}
+        - {x: 4.7339935, y: 17.3601}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 90
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 18}
+        - {x: -11, y: 17}
+        - {x: -11, y: -16}
+        - {x: -8, y: -18}
+        - {x: 7, y: -18}
+        - {x: 11, y: -4}
+        - {x: 11, y: 18}
+      physicsShape:
+      - - {x: 4.427719, y: 17.215256}
+        - {x: -6.080307, y: 17.3601}
+        - {x: -10.786697, y: 7.4014816}
+        - {x: -7.2510376, y: 0.7647705}
+        - {x: -8.013794, y: -10.2408905}
+        - {x: -3.094101, y: -18}
+        - {x: 3.8004913, y: -13.307396}
+        - {x: 4.600998, y: -5.9197083}
+        - {x: 8.590485, y: 2.6704636}
+        - {x: 11, y: 10.534485}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 90
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: -9, y: 19}
+        - {x: -11, y: 16}
+        - {x: -11, y: -19}
+        - {x: 8, y: -19}
+        - {x: 11, y: -11}
+        - {x: 11, y: 16}
+      physicsShape:
+      - - {x: 4.520706, y: 17.933502}
+        - {x: -5.8005066, y: 17.933495}
+        - {x: -11, y: 11.094086}
+        - {x: -7.2744293, y: -1.1072388}
+        - {x: -6.0940857, y: -19}
+        - {x: 5.440384, y: -19}
+        - {x: 3.96109, y: -5.4541855}
+        - {x: 10.360107, y: 12.160591}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 90
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -11, y: 15}
+        - {x: -11, y: -9}
+        - {x: -8, y: -19}
+        - {x: 8, y: -19}
+        - {x: 11, y: -11}
+        - {x: 11, y: 16}
+        - {x: 9, y: 19}
+      physicsShape:
+      - - {x: -5.5871887, y: 18.146805}
+        - {x: -11, y: 11.160591}
+        - {x: -6.7339935, y: 0.5985184}
+        - {x: -6.0802917, y: -18.786697}
+        - {x: 6.506897, y: -19}
+        - {x: 4.8142853, y: -4.6009827}
+        - {x: 9.273758, y: 1.1563568}
+        - {x: 10.786697, y: 11.9472885}
+        - {x: 4.947296, y: 18.3601}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 51
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 11}
+        - {x: -10, y: 8}
+        - {x: -10, y: -11}
+        - {x: 9, y: -11}
+        - {x: 10, y: -10}
+        - {x: 10, y: 9}
+        - {x: 9, y: 11}
+      physicsShape:
+      - - {x: -4.4403954, y: 11}
+        - {x: -10, y: 3.5206985}
+        - {x: -6.374217, y: -5.9446144}
+        - {x: -5.520693, y: -11}
+        - {x: 5.3738937, y: -11}
+        - {x: 5.7339916, y: -6.5871925}
+        - {x: 10, y: 3.454193}
+        - {x: 3.4541893, y: 11}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 47
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19}
+        - {x: -11, y: 18}
+        - {x: -11, y: -9}
+        - {x: -9, y: -19}
+        - {x: 11, y: -19}
+        - {x: 11, y: 18}
+        - {x: 10, y: 19}
+      physicsShape:
+      - - {x: -7.866997, y: 17.720192}
+        - {x: -11, y: 8.188179}
+        - {x: -5.667488, y: -3.454193}
+        - {x: -8.146797, y: -19}
+        - {x: 7.5871964, y: -19}
+        - {x: 5.148514, y: -3.1741104}
+        - {x: 9.933502, y: 9.041397}
+        - {x: 5.520691, y: 17.506897}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 46
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -5}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 10, y: -13}
+        - {x: 11, y: -10}
+        - {x: 11, y: 16}
+      physicsShape:
+      - - {x: -7.5028915, y: 15.813606}
+        - {x: -11, y: 5.761589}
+        - {x: -5.838127, y: -2.9831543}
+        - {x: -5.667488, y: -10.332508}
+        - {x: -3.0802994, y: -16}
+        - {x: 4.0802994, y: -16}
+        - {x: 5.520691, y: -11.080296}
+        - {x: 5.2408905, y: -2.9610863}
+        - {x: 11, y: 5.4804535}
+        - {x: 7.1605988, y: 14.293594}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 46
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -11, y: 16}
+        - {x: -11, y: -14}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+        - {x: 7, y: -12}
+        - {x: 11, y: -3}
+      physicsShape:
+      - - {x: 8.227097, y: 14.7202}
+        - {x: -6.3073883, y: 14.933502}
+        - {x: -11, y: 6.2635345}
+        - {x: -5.2255096, y: -2.0026283}
+        - {x: -4.933502, y: -16}
+        - {x: 5, y: -16}
+        - {x: 5.7201996, y: -2.6147842}
+        - {x: 11, y: 3.3990097}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 47
+        width: 22
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19}
+        - {x: -11, y: 17}
+        - {x: -11, y: -10}
+        - {x: -9, y: -19}
+        - {x: 11, y: -19}
+        - {x: 11, y: 19}
+      physicsShape:
+      - - {x: -4.3074036, y: 18.3601}
+        - {x: -10.360092, y: 11.667488}
+        - {x: -9.624771, y: 1.2399063}
+        - {x: -5.9152374, y: -2.05447}
+        - {x: -5.6674957, y: -13.412804}
+        - {x: -7.933502, y: -18.786697}
+        - {x: 7.5871887, y: -19}
+        - {x: 5.0649567, y: -12.254475}
+        - {x: 5.064972, y: -2.5716286}
+        - {x: 8.693176, y: 1.4846649}
+        - {x: 11, y: 9.130234}
+        - {x: 8.440399, y: 17.0803}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_17
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 52
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 10.5}
+        - {x: -10, y: 7.5}
+        - {x: -10, y: -8.5}
+        - {x: -9, y: -10.5}
+        - {x: 9, y: -10.5}
+        - {x: 10, y: -9.5}
+        - {x: 10, y: 10.5}
+      physicsShape:
+      - - {x: -4.5871887, y: 10.5}
+        - {x: -9.786713, y: 2.807396}
+        - {x: -9.360107, y: -5.9403954}
+        - {x: -3.2408905, y: -10.073402}
+        - {x: 7.2936096, y: -9.646801}
+        - {x: 10, y: -1.1812859}
+        - {x: 5.520691, y: 10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 35
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 10.5}
+        - {x: -17.5, y: -1.5}
+        - {x: -17.5, y: -10.5}
+        - {x: 16.5, y: -10.5}
+        - {x: 17.5, y: -9.5}
+        - {x: 17.5, y: 8.5}
+        - {x: 14.5, y: 10.5}
+      physicsShape:
+      - - {x: 3.5389118, y: 9.646797}
+        - {x: -5.0406733, y: 0.6503725}
+        - {x: -17.5, y: -4.912805}
+        - {x: -10.674389, y: -10.5}
+        - {x: 10.10099, y: -10.5}
+        - {x: 16.006897, y: -5.8738937}
+        - {x: 17.5, y: 2.7408905}
+        - {x: 10.020693, y: 9.646799}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 19.5}
+        - {x: -11, y: 17.5}
+        - {x: -11, y: -8.5}
+        - {x: -7, y: -19.5}
+        - {x: 4, y: -19.5}
+        - {x: 11, y: -15.5}
+        - {x: 11, y: 15.5}
+        - {x: 9, y: 19.5}
+      physicsShape:
+      - - {x: -3.6009903, y: 18.8601}
+        - {x: -11, y: 11.1009865}
+        - {x: -8.227097, y: 4.511322}
+        - {x: -4.2270927, y: -5.4221764}
+        - {x: -3.4655151, y: -19.5}
+        - {x: 1.8858604, y: -17.512922}
+        - {x: 8.013794, y: -11.020693}
+        - {x: 7.937042, y: 0.83221245}
+        - {x: 10.573402, y: 11.020691}
+        - {x: 4.947296, y: 18.8601}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -11, y: -8}
+        - {x: -6, y: -17}
+        - {x: 11, y: -17}
+        - {x: 11, y: 17}
+      physicsShape:
+      - - {x: -3.3401184, y: 16.622917}
+        - {x: -11, y: 7.1881847}
+        - {x: -6.734001, y: -2.8807917}
+        - {x: -1.7339935, y: -5.6950817}
+        - {x: -1.7074661, y: -11.560837}
+        - {x: 2.1584702, y: -17}
+        - {x: 9.7202, y: -11.2408905}
+        - {x: 11, y: 6.5949936}
+        - {x: 6.0940857, y: 16.146797}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 17}
+        - {x: -11, y: 16}
+        - {x: -11, y: -14}
+        - {x: -7, y: -17}
+        - {x: 2, y: -17}
+        - {x: 11, y: -6}
+        - {x: 11, y: 13}
+        - {x: 6, y: 17}
+      physicsShape:
+      - - {x: -5.5871887, y: 15.506897}
+        - {x: -11, y: 7.681286}
+        - {x: -10.786697, y: -9.520693}
+        - {x: -3.1605835, y: -17}
+        - {x: -0.13301086, y: -14.013795}
+        - {x: 0.5793915, y: -6.17743}
+        - {x: 5.454178, y: -3.4403954}
+        - {x: 10.57341, y: 9.373894}
+        - {x: 2.8005066, y: 15.933495}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 22
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19.5}
+        - {x: -11, y: 15.5}
+        - {x: -11, y: -11.5}
+        - {x: -3, y: -19.5}
+        - {x: 8, y: -19.5}
+        - {x: 11, y: -3.5}
+        - {x: 11, y: 16.5}
+        - {x: 7, y: 19.5}
+      physicsShape:
+      - - {x: -5.506897, y: 18.646797}
+        - {x: -11, y: 10.380795}
+        - {x: -8.440399, y: -10.646798}
+        - {x: -1.2935944, y: -19.5}
+        - {x: 3.0940857, y: -19.2867}
+        - {x: 3.624054, y: -5.564905}
+        - {x: 8.440399, y: 0.12610626}
+        - {x: 11, y: 11.594093}
+        - {x: 4.8670044, y: 19.073399}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arqueiro_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 35
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 10.5}
+        - {x: -17.5, y: 9.5}
+        - {x: -17.5, y: -10.5}
+        - {x: 17.5, y: -10.5}
+        - {x: 17.5, y: -0.5}
+        - {x: 1.5, y: 10.5}
+      physicsShape:
+      - - {x: -9.447311, y: 10.5}
+        - {x: -17.5, y: 2.8876886}
+        - {x: -17.5, y: -6.233993}
+        - {x: -9.494873, y: -10.5}
+        - {x: 9.240814, y: -10.439057}
+        - {x: 16.860092, y: -8.153696}
+        - {x: 17.073395, y: -2.846303}
+        - {x: 4.033386, y: 0.89477634}
+        - {x: -2.126114, y: 9.006897}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
